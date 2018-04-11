@@ -10,6 +10,7 @@
 #### 2. [一切都是对象](https://github.com/CasualJi/read-think-in-java/blob/master/%E4%B8%80%E5%88%87%E9%83%BD%E6%98%AF%E5%AF%B9%E8%B1%A1.md)
 #### 3. [操作符](https://github.com/CasualJi/read-think-in-java/blob/master/%E6%93%8D%E4%BD%9C%E7%AC%A6.md)
 #### 4. [流程控制](https://github.com/CasualJi/read-think-in-java/blob/master/%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6.md)
+#### 5. [初始化与清理]()
 
 
 ![](https://upload-images.jianshu.io/upload_images/5889935-a9e34752d8b11a8c.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
