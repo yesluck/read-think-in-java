@@ -11,7 +11,7 @@
 #### 3. [操作符](https://github.com/CasualJi/read-think-in-java/blob/master/%E6%93%8D%E4%BD%9C%E7%AC%A6.md)
 #### 4. [流程控制](https://github.com/CasualJi/read-think-in-java/blob/master/%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6.md)
 #### 5. [初始化与清理](https://github.com/CasualJi/read-think-in-java/blob/master/%E5%88%9D%E5%A7%8B%E5%8C%96%E4%B8%8E%E6%B8%85%E7%90%86.md)
-#### 6. [访问权限控制]
+#### 6. [访问权限控制](https://github.com/CasualJi/read-think-in-java/blob/master/%E8%AE%BF%E9%97%AE%E6%9D%83%E9%99%90%E6%8E%A7%E5%88%B6.md)
 
 
 ![](https://upload-images.jianshu.io/upload_images/5889935-a9e34752d8b11a8c.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
