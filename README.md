@@ -15,6 +15,6 @@
 #### 7. [复用类](https://github.com/CasualJi/read-think-in-java/blob/master/%E5%A4%8D%E7%94%A8%E7%B1%BB.md)
 #### 8. [多态](https://github.com/CasualJi/read-think-in-java/blob/master/%E5%A4%9A%E6%80%81.md)
 
-![](https://upload-images.jianshu.io/upload_images/5889935-a9e34752d8b11a8c.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![公众号：果核里的图灵](https://upload-images.jianshu.io/upload_images/5889935-a9e34752d8b11a8c.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 一起成长。
