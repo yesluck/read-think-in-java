@@ -13,6 +13,7 @@
 #### 5. [初始化与清理](https://github.com/CasualJi/read-think-in-java/blob/master/%E5%88%9D%E5%A7%8B%E5%8C%96%E4%B8%8E%E6%B8%85%E7%90%86.md)
 #### 6. [访问权限控制](https://github.com/CasualJi/read-think-in-java/blob/master/%E8%AE%BF%E9%97%AE%E6%9D%83%E9%99%90%E6%8E%A7%E5%88%B6.md)
 #### 7. [复用类](https://github.com/CasualJi/read-think-in-java/blob/master/%E5%A4%8D%E7%94%A8%E7%B1%BB.md)
+#### 8. [多态](https://github.com/CasualJi/read-think-in-java/blob/master/%E5%A4%8D%E7%94%A8%E7%B1%BB.md)
 
 ![](https://upload-images.jianshu.io/upload_images/5889935-a9e34752d8b11a8c.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
