@@ -14,7 +14,7 @@
 ### 6. [访问权限控制](https://github.com/CasualJi/read-think-in-java/blob/master/%E8%AE%BF%E9%97%AE%E6%9D%83%E9%99%90%E6%8E%A7%E5%88%B6.md)
 ### 7. [复用类](https://github.com/CasualJi/read-think-in-java/blob/master/%E5%A4%8D%E7%94%A8%E7%B1%BB.md)
 ### 8. [多态](https://github.com/CasualJi/read-think-in-java/blob/master/%E5%A4%9A%E6%80%81.md)
-### 9. [接口](https://github.com/CasualJi/read-think-in-java/blob/master/%E5%A4%9A%E6%80%81.md)
+### 9. [接口](https://github.com/CasualJi/read-think-in-java/blob/master/%E6%8E%A5%E5%8F%A3.md)
 
 ![公众号：果核里的图灵](https://upload-images.jianshu.io/upload_images/5889935-a9e34752d8b11a8c.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
