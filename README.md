@@ -15,7 +15,7 @@
 ### 7. [复用类](https://github.com/CasualJi/read-think-in-java/blob/master/%E5%A4%8D%E7%94%A8%E7%B1%BB.md)
 ### 8. [多态](https://github.com/CasualJi/read-think-in-java/blob/master/%E5%A4%9A%E6%80%81.md)
 ### 9. [接口](https://github.com/CasualJi/read-think-in-java/blob/master/%E6%8E%A5%E5%8F%A3.md)
-### 11. [持有对象](https://github.com/CasualJi/read-think-in-java/blob/master/%E6%8E%A5%E5%8F%A3.md)
+### 11. [持有对象](https://github.com/CasualJi/read-think-in-java/blob/master/%E6%8C%81%E6%9C%89%E5%AF%B9%E8%B1%A1.md)
 
 ![公众号：果核里的图灵](https://upload-images.jianshu.io/upload_images/5889935-a9e34752d8b11a8c.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
