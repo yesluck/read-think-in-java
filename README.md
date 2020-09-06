@@ -1,3 +1,5 @@
+Forked from https://github.com/yesluck/read-think-in-java, original README below, removed pictures and QR code.
+
 ## 写在之前
 《Think in Java》被誉为“Java界的圣经”是当之无愧的。在我初学Java时，就有学长给我推荐这本书，但是无奈资质尚浅。
 
@@ -16,7 +18,3 @@
 ### 8. [多态](https://github.com/CasualJi/read-think-in-java/blob/master/%E5%A4%9A%E6%80%81.md)
 ### 9. [接口](https://github.com/CasualJi/read-think-in-java/blob/master/%E6%8E%A5%E5%8F%A3.md)
 ### 11. [持有对象](https://github.com/CasualJi/read-think-in-java/blob/master/%E6%8C%81%E6%9C%89%E5%AF%B9%E8%B1%A1.md)
-
-![公众号：果核里的图灵](https://upload-images.jianshu.io/upload_images/5889935-a9e34752d8b11a8c.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-一起成长。
